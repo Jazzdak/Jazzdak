@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jazzdak
+- 👀 I’m interested in Computer science, software development, video games and bord games.
+- 🌱 I’m currently a senior developer and senior development manager
+- 💞️ I’m looking to collaborate on Java and Php Based Softwares
+- 📫 How to reach me : by mail at jca.fournier@free.fr
