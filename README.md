@@ -4,4 +4,4 @@
 - 💻 I'm currently using springboot for Java developments and Symfony for Php.
 - 💻 I'm also using Javascript Vanilla, jQuery or ReactJs for frontend devs.
 - 💞️ I’m looking to collaborate on Java and Php Based Softwares
-- 📫 How to reach me : by mail at jca.fournier@free.fr
+- 📫 How to reach me : by mail at jeremy.c.fournier@free.fr
